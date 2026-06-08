@@ -2,7 +2,7 @@
 ## Overview
 This repository contains the published HTML version of my PSY 120L final reproducible
 report.
-This project examined [briefly describe the main research question or topic].
+This project examined whether social approval and susceptibility to interpersonal influence can predict relationship satisfaction and commitment to an individual's romantic partner.
 ## Report
 The published report is available through GitHub Pages.
 ## Tools
